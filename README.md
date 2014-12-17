@@ -5,8 +5,8 @@ for BabelNet v2.5
 
 
 It looks harder than I thought, so here's some more recon work on BabelNet2.5:
-- BabelNet2.5 Lucene's indice needs to be upgraded before using it with pylucene or newer java lucene versions (see `upbabel.sh`
-- 
+ - BabelNet2.5 Lucene's indice needs to be upgraded before using it with pylucene or newer java lucene versions (see `upbabel.sh`
+ - 
 
 
 
